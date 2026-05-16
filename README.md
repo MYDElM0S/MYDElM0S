@@ -1,4 +1,6 @@
 <p align="center">
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Yanone+Kaffeesatz&size=50&pause=1000&color=551515&background=FFFFFF00&width=435&lines=Become+the+dawn...Deliverer." alt="Typing SVG" /></a>
+<p align="center">
 <img width="300" height="250" alt="Image" src="https://github.com/user-attachments/assets/cbf0b509-2b7a-4b7e-b474-a9b44deec3d0" />
 <p align="center">
 <a href="https://herrsen.atabook.org/">
